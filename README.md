@@ -38,9 +38,9 @@ python scrape_wikipedia.py "https://en.wikipedia.org/wiki/Web_scraping"
 ## 📝 Example Extracted Data
 **Sample Output from Wikipedia:**
 ```
-Title: Web Scraping
-First Paragraph: Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites...
-Links: ['https://en.wikipedia.org/wiki/Data_extraction', 'https://en.wikipedia.org/wiki/HTTP']
+Satoshi Nakamoto  is the name used by the presumed pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation. As part of the implementation, Nakamoto also devised the first blockchain database. Nakamoto was active in the development of bitcoin until December 2010.
+
+There has been widespread speculation about Nakamoto's true identity, with various people posited as the person or persons behind the name. Though Nakamoto's name is Japanese, and inscribed as a man living in Japan, most of the speculation has involved software and cryptography experts in the United States or Europe.
 ```
 
 ## 📬 Contact
