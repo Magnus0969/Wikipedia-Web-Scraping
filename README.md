@@ -11,7 +11,7 @@ This project scrapes data from **Wikipedia** using **BeautifulSoup**, and **Requ
 ## 📈 Key Features
 - Scrapes Wikipedia pages for text, tables, and links.
 - Cleans and structures the extracted data.
-- Saves data in **CSV** and **JSON** formats.
+- Saves data in **Text** formats.
 - Implements request handling and rate-limiting to avoid blocking.
 
 ## 🚀 Getting Started
